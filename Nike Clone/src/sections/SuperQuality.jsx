@@ -30,7 +30,7 @@ const SuperQuality = () => {
 
         {/* Shop Button */}
         <div className="mt-11">
-          <Button label={"View Details"} iconURL={arrowRight} />
+          <Button label={"View Details"}/>
         </div>
       </div>
 
